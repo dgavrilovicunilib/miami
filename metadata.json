@@ -1,0 +1,5 @@
+{
+  "name": "Scroll Reveal Mockup",
+  "description": "A modern landing page mockup featuring scroll-triggered reveal animations using Intersection Observer and Tailwind CSS.",
+  "requestFramePermissions": []
+}
